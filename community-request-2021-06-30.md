@@ -1,5 +1,8 @@
 # Stories of the Pandemic
 
+[![hackmd-github-sync-badge](https://hackmd.io/vlyNaG2JS92VGT316gmvEA/badge)](https://hackmd.io/vlyNaG2JS92VGT316gmvEA)
+
+
 ## Introduction:
 The ongoing global pandemic has had an impact on the daily lives everywhere the world over. Its onset was characterized by chaos as doctors, administrators and communities struggled to understand and address the novel coronavirus. 
 
