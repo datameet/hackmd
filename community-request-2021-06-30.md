@@ -1,5 +1,10 @@
 # Community Requests - Jun/2021
 
+[![hackmd-github-sync-badge](https://hackmd.io/HGDYDJkxQPSwnbqMphkMKQ/badge)](https://hackmd.io/HGDYDJkxQPSwnbqMphkMKQ)
+
+
+
+
 ## Seeking response for a study on accessibility of earth observation training data
 
 Dear all,
